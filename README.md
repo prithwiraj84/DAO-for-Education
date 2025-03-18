@@ -26,4 +26,6 @@ The DAO for Education aims to revolutionize online learning by leveraging blockc
 - **Scalable and Flexible**: Open for integration with multiple learning platforms and blockchain-based tools.
 - **Trustless Operations**: Eliminates intermediaries, ensuring direct support and funding for education.
 
-## Contract Address: "0x4d670bac8bbd64a31caa0b040fae8822cbb5b8c6695ba895f31827f73f1c0265",
+## Contract Address: "0x4d670bac8bbd64a31caa0b040fae8822cbb5b8c6695ba895f31827f73f1c0265"
+![image](https://github.com/user-attachments/assets/08d4e38e-15b5-4806-a1f3-3efaf11fa56d)
+
